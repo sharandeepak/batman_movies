@@ -1,6 +1,6 @@
 # MoviesApp
 
-A new Flutter project.
+Its a simple Flutter App to list batman movies using http.
 
 ## Getting Started
 
